@@ -1,2 +1,3 @@
 # slstatus
-my slstatus config
+pamixer needed
+
